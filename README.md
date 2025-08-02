@@ -20,6 +20,8 @@ We aim to find signals that look similar to a given “query” signal in Voyage
 
 Then the machine learning algorithm, called a Beta-Variational Autoencoder (β-VAE), will look through a bunch of data that we want it to search for similar looking signals! If all goes well, it will return the top 10 lookalikes ("hits"), which we can then check out for ourselves to see if they really are extraterrestrial spacecraft!!
 
+<div align="center"><br><img src="images/Top10Hits.png" alt="Top10Hits" width="400"><br></div>
+
 <br>The dataset consists of six 5-minute scans of Voyager 1 acquired by the Green Bank Telescope in July 2020 (3 scans pointed ON the Voyager spacecraft and 3 OFF target). For simplicity, we will ignore the ON/OFF labeling (i.e. we won’t perform interference filtering by removing OFF-target signals. Instead, we’ll treat all scans uniformly as a pool of spectrogram data in which to search for lookalike signals.<br>
 
 To better understand how the machine learning algorithm works, it may be helpful to watch:
