@@ -1,6 +1,6 @@
 # VoyagerMLTutorial
 
-[Click here to open the notebook in Google Colab in your browser!](https://colab.research.google.com/github/elanlavie/VoyagerMLTutorial/blob/main/VoyagerMLTutorial.ipynb)
+# [CLICK HERE to open the notebook in Google Colab in your browser!](https://colab.research.google.com/github/elanlavie/VoyagerMLTutorial/blob/main/VoyagerMLTutorial.ipynb)
 
 ## 🛰️ Voyager Signal Similarity Search with β-VAE (Colab Tutorial)
 👋 Introduction
