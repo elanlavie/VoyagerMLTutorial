@@ -1,7 +1,7 @@
 # 🛰️ Voyager 1 Machine Learning Tutorial
 *Using AI to find ET!*
 
-# [CLICK HERE to open the interactive notebook in Google Colab to go through the full tutorial!](https://colab.research.google.com/github/elanlavie/VoyagerMLTutorial/blob/main/VoyagerMLTutorial.ipynb)
+# [CLICK HERE to open the interactive coding notebook in Google Colab to go through the full tutorial!](https://colab.research.google.com/github/elanlavie/VoyagerMLTutorial/blob/main/VoyagerMLTutorial.ipynb)
 
 ## 👋 Introduction
 The goal of this tutorial is to learn how to use Artifical Intelligence to find Extraterrestrial Intelligence! Woah--That's a lot of intelligence! 🧠🤯
