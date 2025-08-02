@@ -27,9 +27,10 @@ For example, if you wanted to find an image of another beautiful orange/gray spo
 <div align="center"><br><img src="images/VoyagerSignal.png" alt="VoyagerSignal" width="400"><br></div>
 
 Then the machine learning algorithm, called a **Beta-Variational Autoencoder (β-VAE)**, will look through a bunch of data that we want it to search through for similar looking signals! If all goes well, it will return the top 10 lookalikes ("hits"), which we can then check out for ourselves to see if they really are extraterrestrial spacecraft!! (Or, more likely, Radio Frequency Interference from Earth-based satellites/wi-fi/cell phones/microwave ovens/whatever). Here's an image of what the top 10 hits for the signal above might look like:
+
 <div align="center"><br><img src="images/Top10Hits.png" alt="Top10Hits" width="400"><br></div>
 
-And that's all there is to it! To better understand how the machine learning algorithm works, it may be helpful to watch:
+<br>And that's all there is to it! To better understand how the machine learning algorithm works, it may be helpful to watch:<br>
 
 1) This wonderful video from Carnegie Mellon University to develop one's intuition on "latent space": [Cat's in Latent Space](https://www.youtube.com/watch?v=hb-KT66rCT8) :)
 2) This short video on Convolutional Neural Networks (like a β-VAE): [Convolutional Neural Networks](https://www.youtube.com/watch?v=LEAFHHNk8II)
