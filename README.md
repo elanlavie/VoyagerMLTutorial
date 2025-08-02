@@ -9,7 +9,7 @@ We'll take real radio wave data from outer space collected by [Breakthrough List
 
 Spoiler alert: As in the [turboSETI tutorial](https://github.com/elanlavie/VoyagerTutorial/blob/master/VoyagerTutorial.ipynb), you WILL find what appears to possibly be an alien! 👽
 
-Double spoiler art: Again, it's not an alien, but IS [Voyager 1 🛰️](https://en.wikipedia.org/wiki/Voyager_1), the farthest human-made object from Earth! Which remains very freaking cool!
+Double spoiler alert: Again, it's not an alien, but IS [Voyager 1 🛰️](https://en.wikipedia.org/wiki/Voyager_1), the farthest human-made object from Earth! Which remains very freaking cool!
 
 ## 📚 Background
 We aim to find signals that look similar to a given “query” signal in Voyager's spectrograms. This is a lot like a [reverse Google Image Search](https://images.google.com) if you've ever tried that!
