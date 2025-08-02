@@ -4,11 +4,11 @@
 # [CLICK HERE to open the interactive coding notebook in Google Colab to go through the full tutorial!](https://colab.research.google.com/github/elanlavie/VoyagerMLTutorial/blob/main/VoyagerMLTutorial.ipynb)
 
 ## 👋 Introduction
-The goal of this tutorial is to learn how to use Artifical Intelligence to find Extraterrestrial Intelligence! Woah--That's a lot of intelligence! 🧠🤯
+The goal of this tutorial is to learn how to use Artifical Intelligence to find Extraterrestrial Intelligence! Woah--That's a lot of intelligence! 🤖🧠🤯👽
 
 We'll take real radio wave data from outer space collected by [Breakthrough Listen](https://breakthroughinitiatives.org/initiative/1) at the [Green Bank Telescope](https://en.wikipedia.org/wiki/Green_Bank_Telescope) in West Virginia and use a machine learning algorithm to see if any of it looks like a possible alien message!
 
-Spoiler alert: As in the [turboSETI tutorial](https://github.com/elanlavie/VoyagerTutorial/blob/master/VoyagerTutorial.ipynb), you WILL find what appears to possibly be an alien! 👽
+Spoiler alert: As in the [turboSETI tutorial](https://github.com/elanlavie/VoyagerTutorial/blob/master/VoyagerTutorial.ipynb), you WILL find what appears to possibly be an alien! 🛸
 
 Double spoiler alert: Again, it's not an alien, but IS [Voyager 1 🛰️](https://en.wikipedia.org/wiki/Voyager_1), the farthest human-made object from Earth! Which remains very freaking cool!
 
