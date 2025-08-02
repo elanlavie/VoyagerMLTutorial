@@ -1,9 +1,15 @@
-# 🛰️ Voyager Signal Similarity Search with β-VAE (Colab Tutorial)
+# 🛰️ Voyager 1 Machine Learning Tutorial
 
 # [CLICK HERE to open the notebook in Google Colab in your browser!](https://colab.research.google.com/github/elanlavie/VoyagerMLTutorial/blob/main/VoyagerMLTutorial.ipynb)
 
 ## 👋 Introduction
-In this tutorial, we will use real Voyager-1 radio spectrogram data from the Breakthrough Listen public archive to demonstrate a content-based signal search. 
+The goal of this tutorial is to learn how to use Artifical Intelligence to find Extraterrestrial Intelligence! Woah--That's a lot of intelligence! 🧠🤯
+
+We'll take real radio wave data from outer space collected by [Breakthrough Listen](https://breakthroughinitiatives.org/initiative/1) at the [Green Bank Telescope](https://en.wikipedia.org/wiki/Green_Bank_Telescope) in West Virginia and use a machine learning algorithm to see if any of it looks like a possible alien message!
+
+Spoiler alert: As in the [turboSETI tutorial](https://github.com/elanlavie/VoyagerTutorial/blob/master/VoyagerTutorial.ipynb), you WILL find what appears to possibly be an alien! 👽
+
+Double spoiler art: Again, it's not an alien, but IS [Voyager 1 🛰️](https://en.wikipedia.org/wiki/Voyager_1), the farthest human-made object from Earth! Which remains very freaking cool!
 
 ## 📚 Background
 We aim to find signals that look similar to a given “query” signal in Voyager's spectrograms. This is a lot like a [reverse Google Image Search](https://images.google.com) if you've ever tried that!
