@@ -3,11 +3,11 @@
 # [CLICK HERE to open the notebook in Google Colab in your browser!](https://colab.research.google.com/github/elanlavie/VoyagerMLTutorial/blob/main/VoyagerMLTutorial.ipynb)
 
 ## 👋 Introduction
-In this tutorial, we will use real Voyager-1 radio spectrogram data from the Breakthrough Listen public archive to demonstrate a content-based signal search. We aim to find signals that look similar to a given “query” signal in Voyager's spectrograms. This is a lot like a reverse Google Image Search if you've ever tried that!
+In this tutorial, we will use real Voyager-1 radio spectrogram data from the Breakthrough Listen public archive to demonstrate a content-based signal search. We aim to find signals that look similar to a given “query” signal in Voyager's spectrograms. This is a lot like a [reverse Google Image Search](https://images.google.com) if you've ever tried that!
 
 <div align="center"><br><img src="images/GoogleImageSearch.png" alt="GoogleImageSearch" width="400"><br></div>
 
-For example, if you wanted to find an image of a cat that looks a lot like this one: 
+<br>For example, if you wanted to find an image of a cat that looks a lot like this one: <br>
 
 <div align="center"><br><img src="images/CatImageSearch.png" alt="GoogleImageSearch" width="400"><br></div>
 
