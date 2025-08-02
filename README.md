@@ -32,7 +32,7 @@ Then the machine learning algorithm, called a **Beta-Variational Autoencoder (β
 
 <br>And that's all there is to it! To better understand how the machine learning algorithm works, it may be helpful to watch:<br>
 
-1) This wonderful video from Carnegie Mellon University to develop one's intuition on "latent space": [Cat's in Latent Space](https://www.youtube.com/watch?v=hb-KT66rCT8) :)
+1) This wonderful video from Carnegie Mellon University to develop one's intuition on "latent space": [Cats in Latent Space](https://www.youtube.com/watch?v=hb-KT66rCT8) :)
 2) This short video on Convolutional Neural Networks (like a β-VAE): [Convolutional Neural Networks](https://www.youtube.com/watch?v=LEAFHHNk8II)
 3) This longer 3Blue1Brown video on Neural Networks more generally: [But What is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk)
 
