@@ -14,7 +14,7 @@ Double spoiler alert: Again, it's not an alien, but IS [Voyager 1 🛰️](https
 ## 📚 Background
 We aim to find signals that look similar to a given “query” signal in Voyager's spectrograms. This is a lot like a [reverse Google Image Search](https://images.google.com) if you've ever tried that!
 
-<br>For example, if you wanted to find an image of another orange/gray spotted calico cat, you could upload your image to Google Image Search: <br>
+<br>For example, if you wanted to find an image of another beautiful orange/gray spotted calico cat, you could upload your image to Google Image Search: <br>
 
 <div align="center"><br><img src="images/FlopsySearch.png" alt="GoogleImageSearch" width="400"><br></div>
 
@@ -26,7 +26,7 @@ We aim to find signals that look similar to a given “query” signal in Voyage
 
 <div align="center"><br><img src="images/VoyagerSignal.png" alt="VoyagerSignal" width="400"><br></div>
 
-Then the machine learning algorithm, called a Beta-Variational Autoencoder (β-VAE), will look through a bunch of data that we want it to search for similar looking signals! If all goes well, it will return the top 10 lookalikes ("hits"), which we can then check out for ourselves to see if they really are extraterrestrial spacecraft!!
+Then the machine learning algorithm, called a Beta-Variational Autoencoder (β-VAE), will look through a bunch of data that we want it to search through for similar looking signals! If all goes well, it will return the top 10 lookalikes ("hits"), which we can then check out for ourselves to see if they really are extraterrestrial spacecraft!!
 
 <div align="center"><br><img src="images/Top10Hits.png" alt="Top10Hits" width="400"><br></div>
 
