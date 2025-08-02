@@ -18,7 +18,7 @@ For example, if you wanted to find an image of another beautiful orange/gray spo
 
 <div align="center"><br><img src="images/FlopsySearch.png" alt="GoogleImageSearch" width="400"><br></div>
 
-<br>and it will return similar hits:<br>
+<br>and it will return look-alike kitties:<br>
 
 <div align="center"><br><img src="images/CatHits.png" alt="GoogleImageSearch" width="400"><br></div>
 
