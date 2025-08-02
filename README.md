@@ -8,11 +8,13 @@ In this tutorial, we will use real Voyager-1 radio spectrogram data from the Bre
 ## 📚 Background
 We aim to find signals that look similar to a given “query” signal in Voyager's spectrograms. This is a lot like a [reverse Google Image Search](https://images.google.com) if you've ever tried that!
 
-<div align="center"><br><img src="images/GoogleImageSearch.png" alt="GoogleImageSearch" width="400"><br></div>
+<br>For example, if you wanted to find an image of another orange/grey spotted calico cat, you could upload your image to Google Image Search: <br>
 
-<br>For example, if you wanted to find an image of another orange/grey spotted calico cat, you could upload your image to Google Image Search and it will return similar hits: <br>
+<div align="center"><br><img src="images/FlopsySearch.png" alt="GoogleImageSearch" width="400"><br></div>
 
-<div align="center"><br><img src="images/CatImageSearch.png" alt="GoogleImageSearch" width="400"><br></div>
+<br>and it will return similar hits:<br>
+
+<div align="center"><br><img src="images/CatHits.png" alt="GoogleImageSearch" width="400"><br></div>
 
 <br>We'll be doing something very similar, but instead of uploading an image of a cat, we'll upload an image of a signal we believe looks like the one Voyager (or an alien!) emits:<br>
 
