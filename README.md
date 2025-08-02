@@ -14,7 +14,7 @@ Double spoiler alert: Again, it's not an alien, but IS [Voyager 1 🛰️](https
 ## 📚 Background
 We aim to find signals that look similar to a given “query” signal in Voyager's spectrograms. This is a lot like a [reverse Google Image Search](https://images.google.com) if you've ever tried that!
 
-<br>For example, if you wanted to find an image of another orange/grey spotted calico cat, you could upload your image to Google Image Search: <br>
+<br>For example, if you wanted to find an image of another orange/gray spotted calico cat, you could upload your image to Google Image Search: <br>
 
 <div align="center"><br><img src="images/FlopsySearch.png" alt="GoogleImageSearch" width="400"><br></div>
 
