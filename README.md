@@ -11,7 +11,7 @@ In this tutorial, we will use real Voyager-1 radio spectrogram data from the Bre
 
 <div align="center"><br><img src="images/CatImageSearch.png" alt="GoogleImageSearch" width="400"><br></div>
 
-The dataset consists of six 5-minute scans of Voyager 1 acquired by the Green Bank Telescope in July 2020 (3 scans pointed ON the Voyager spacecraft and 3 OFF target). For simplicity, we will ignore the ON/OFF labeling (i.e. we won’t perform interference filtering by removing OFF-target signals. Instead, we’ll treat all scans uniformly as a pool of spectrogram data in which to search for lookalike signals.
+<br>The dataset consists of six 5-minute scans of Voyager 1 acquired by the Green Bank Telescope in July 2020 (3 scans pointed ON the Voyager spacecraft and 3 OFF target). For simplicity, we will ignore the ON/OFF labeling (i.e. we won’t perform interference filtering by removing OFF-target signals. Instead, we’ll treat all scans uniformly as a pool of spectrogram data in which to search for lookalike signals.<br>
 
 ## 📚 Background
 It may be helpful to watch this wonderful video from Carnegie Mellon University to develop one's intuition on "latent space" in a machine learning context: [Cat's in Latent Space](https://www.youtube.com/watch?v=hb-KT66rCT8) :)
