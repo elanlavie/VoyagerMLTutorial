@@ -1,4 +1,5 @@
 # 🛰️ Voyager 1 Machine Learning Tutorial
+*Using AI to find ETI!*
 
 # [CLICK HERE to open the interactive notebook in Google Colab to go through the full tutorial!](https://colab.research.google.com/github/elanlavie/VoyagerMLTutorial/blob/main/VoyagerMLTutorial.ipynb)
 
