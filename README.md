@@ -48,4 +48,4 @@ We follow a simplified version of the method by Ma et al. (2023). First, we use 
 This notebook uses TensorFlow (with GPU support) and common scientific Python packages (NumPy, h5py, etc.) which are pre-installed in Colab. We will also install Blimpy (Breakthrough Listen I/O toolkit) to help read .h5 spectrogram files. The β-VAE encoder model will be downloaded and loaded with Keras.
 
 ## 👽 Get Started!
-It's time to find aliens! Click on [this Google Colab link](https://colab.research.google.com/github/elanlavie/VoyagerMLTutorial/blob/main/VoyagerMLTutorial.ipynb) or clone the repo and run it on your own computer to get started!
+It's time to find some aliens! Click on [this Google Colab link](https://colab.research.google.com/github/elanlavie/VoyagerMLTutorial/blob/main/VoyagerMLTutorial.ipynb) or clone the repo and run it on your own computer to get started!
