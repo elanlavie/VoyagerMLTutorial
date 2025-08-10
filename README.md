@@ -3,6 +3,8 @@
 
 [![CLICK HERE to open the interactive coding notebook in Google Colab to go through the full tutorial!](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elanlavie/VoyagerMLTutorial/blob/main/VoyagerMLTutorial.ipynb)
 
+## 🚀 [Click Here to Get Started in Google Colab!](https://colab.research.google.com/github/elanlavie/VoyagerMLTutorial/blob/main/VoyagerMLTutorial.ipynb)
+
 ## 👋 Introduction
 The goal of this tutorial is to learn how to use Artifical Intelligence to find Extraterrestrial Intelligence! Woah--That's a lot of intelligence! 🤖🧠👽🤯
 
@@ -43,6 +45,4 @@ We follow a simplified version of the method by Ma et al. (2023). First, we use 
 *Note: The dataset consists of six 5-minute scans of Voyager 1 acquired by the Green Bank Telescope in July 2020 (3 scans pointed ON the Voyager spacecraft and 3 OFF target). For simplicity, we will ignore the ON/OFF labeling (i.e. we won’t perform interference filtering by removing OFF-target signals). Instead, we’ll treat all scans uniformly as a pool of spectrogram data in which to search for lookalike signals.
 
 ## ✅ Requirements
-This notebook uses TensorFlow (with GPU support) and common scientific Python packages (NumPy, h5py, etc.) which are pre-installed in Colab. We will also install Blimpy (Breakthrough Listen I/O toolkit) to help read .h5 spectrogram files. The β-VAE encoder model will be downloaded and loaded with Keras. Let's get started by importing necessary libraries and preparing the data!
-
-## 🚀 [Click Here to Get Started in Google Colab!](https://colab.research.google.com/github/elanlavie/VoyagerMLTutorial/blob/main/VoyagerMLTutorial.ipynb)
+This notebook uses TensorFlow (with GPU support) and common scientific Python packages (NumPy, h5py, etc.) which are pre-installed in Colab. We will also install Blimpy (Breakthrough Listen I/O toolkit) to help read .h5 spectrogram files. The β-VAE encoder model will be downloaded and loaded with Keras.
