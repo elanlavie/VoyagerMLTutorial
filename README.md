@@ -1,4 +1,4 @@
-# 🛰️ Voyager 1 Machine Learning Tutorial
+# 🛰️ Voyager 1 Machine Learning OpenData Tutorial
 *Using AI to find ET!*
 
 [![CLICK HERE to open the interactive coding notebook in Google Colab to go through the full tutorial!](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elanlavie/VoyagerMLTutorial/blob/main/VoyagerMLTutorial.ipynb)
